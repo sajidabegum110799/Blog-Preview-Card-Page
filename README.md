@@ -1,1 +1,1 @@
-# Blog-preview-card-page
+This is a Blog-preview-card page i build by using HTML and CSS.
